@@ -10,9 +10,9 @@ const BLOG = {
   SINCE: 2023, // e.g if leave this empty, current year will be used.
   APPEARANCE: 'auto', // ['light', 'dark', 'auto'], // light 日间模式 ， dark夜间模式， auto根据时间和主题自动夜间模式
 
-  AUTHOR: '张渊博', // 作者
-  BIO: '张渊博的博客', // 作者简介
-  LINK: 'https://www.zyb-blog.com', // 网站地址
+  AUTHOR: '博', // 作者
+  BIO: 'yuanbo的博客', // 作者简介
+  LINK: 'https://www.zyb88.top', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: '775851451@qq.com', // 邮箱
